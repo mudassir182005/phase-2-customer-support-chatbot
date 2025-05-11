@@ -17,7 +17,7 @@ To get started with the chatbot, clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chatbot-revolution.git
+git clone https://github.com/mudassir182005/phase-2-customer-support-chatbot.git
 Prerequisites 📋
 Before running the project locally, make sure you have the following installed on your machine:
 Python 3.x
@@ -27,7 +27,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chatbot-revolution.git
+git clone [https://github.com/yourusername/chatbot-revolution.git](https://github.com/mudassir182005/phase-2-customer-support-chatbot.git)
 cd chatbot-revolution
 Create a virtual environment (optional but recommended):
 
